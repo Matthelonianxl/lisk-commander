@@ -49,7 +49,7 @@
 	},
 	"dependencies": {
 		"babel-polyfill": "=6.26.0",
-		"bip39": "=2.4.0",
+		"bip39": "2.6.0",
 		"chalk": "=2.3.0",
 		"cli-table3": "=0.5.0",
 		"lisk-elements": "=1.0.0",
